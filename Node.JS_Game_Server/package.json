@@ -1,0 +1,13 @@
+{
+  "name": "node.js_game_server",
+  "version": "0.0.0",
+  "description": "Node.JS_Game_Server",
+  "main": "server.js",
+  "author": {
+    "name": "wipi2"
+  },
+  "dependencies": {
+    "express": "^4.15.4",
+    "socket.io": "^2.0.3"
+  }
+}
